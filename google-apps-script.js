@@ -4,7 +4,7 @@
  * All credit still goes to Martin and any issues/complaints/questions to me. *
  ******************************************************************************/
 
-var TO_ADDRESS = "contact.nelsonic+form.submit@gmail.com"; // change this ...
+var TO_ADDRESS = "xsmela@gmail.com"; // change this ...
 
 function doPost(e) {
 
